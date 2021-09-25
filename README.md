@@ -1,6 +1,9 @@
-![OMNIFOOD](https://ibb.co/sFBptjk)
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/OMNIFOOD.png" />
+</h1>
 
-# OMNIFOOD 
+
+<h1>OMNIFOOD</h1>
 <img src="https://img.shields.io/static/v1?label=Status&message=completed&color=37b24d&style=for-the-badge&logo=ghost"/>
 
 ## Descrição do Projeto
